@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="support">Support</string>
+    <string name="exit">Exit</string>
+    <string name="support_frag">support frag</string>
+    <string name="home_frag">Home Frag</string>
+    <string name="static_frag">static frag</string>
+    <string name="profile_frag">profile frag</string>
 </resources>
